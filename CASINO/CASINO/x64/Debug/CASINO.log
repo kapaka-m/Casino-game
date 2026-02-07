@@ -1,0 +1,3 @@
+﻿  CASINO.cpp
+D:\PROJ C++\CASINO\CASINO\CASINO.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CASINO.vcxproj -> D:\PROJ C++\CASINO\x64\Debug\CASINO.exe
